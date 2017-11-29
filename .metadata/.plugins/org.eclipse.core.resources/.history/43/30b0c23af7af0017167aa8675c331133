@@ -1,0 +1,5 @@
+package hoithoaiTCP;
+
+public interface NetInterface {
+
+}

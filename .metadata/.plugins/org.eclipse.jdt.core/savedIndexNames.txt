@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+E:\learn\school\semester 7\TH Mang\source\ThucHanhBuoi1\.metadata\.plugins\org.eclipse.jdt.core
+1627619850.index

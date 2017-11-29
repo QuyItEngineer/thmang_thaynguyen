@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/ThucHanhBuoi01/src/cautruluachon/PhuongTrinhBacNhat.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.debug.ui.INCLUDE_EXTERNAL_JARS" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="cautruluachon.PhuongTrinhBacNhat"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ThucHanhBuoi01"/>
+</launchConfiguration>
